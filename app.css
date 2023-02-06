@@ -1,0 +1,17 @@
+:root {
+  --dark-red: rgb(95, 10, 10);
+  --red: rgb(200, 20, 20);
+  --text-color-light: rgb(255, 255, 255);
+  --text-color-dark: rgb(0, 0, 0);
+  --white: #fff;
+  --vigtige-info: rgb(250, 193, 51);
+  --grøn: rgb(20, 131, 38);
+}
+
+html {
+  color: var(blueviolet);
+}
+
+body {
+  color: var(--text-color-dark);
+}
