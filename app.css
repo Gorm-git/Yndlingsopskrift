@@ -15,7 +15,7 @@ html {
 body {
   background-color: rgba(224, 131, 1, 0.733);
 }
-
+/* Jeg aligner alle mine paragrafer i index*, og giver dem en forfærdelig farve */
 p {
   height: 20px;
   width: 37%;
@@ -26,7 +26,7 @@ p {
 ol {
   text-align: center;
 }
-/* Jeg har forsøgt at ligge både listen og  */
+/* Jeg har forsøgt at ligge både lister og deres punktering ind mod midten, men det fungere ikke rigtigt */
 li {
   text-align: center;
 }
@@ -41,10 +41,8 @@ img {
 h2 {
   text-align: center;
 }
-/* Jeg aligner alle mine paragrafer i index*/
-p {
-  text-align: justify;
-}
+
+
 /* Jeg forsøgte at lave et sidepanel men min hjemmeside er noget værre rod, jeg har slettet det inde i index filen, men jeg lod det her stå alligevel*/
 aside {
   width: 30%;
